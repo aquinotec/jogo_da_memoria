@@ -37,7 +37,8 @@ body {
 
 .manu {
   color: rgb(212, 0, 255);
-  font-size: 6rem;
+  font-size: 4rem;
+
 }
 
 
@@ -99,7 +100,7 @@ body {
   gap: 5px;
 }
 .title-game {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 400;
   color: #362222;
 }
@@ -110,7 +111,7 @@ body {
 }
 .content-t {
   width: 110px;
-  height: 230px;
+  height: 170px;
 }
 
 #gameStart {

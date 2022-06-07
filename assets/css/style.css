@@ -35,6 +35,11 @@ body {
   height: 179px;
 }
 
+.manu {
+  color: rgb(212, 0, 255);
+  font-size: 6rem;
+}
+
 
 .card_back,
 .card_front {
@@ -97,6 +102,15 @@ body {
   font-size: 4rem;
   font-weight: 400;
   color: #362222;
+}
+.container-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content-t {
+  width: 110px;
+  height: 230px;
 }
 
 #gameStart {

@@ -56,8 +56,8 @@
      id="layer1"
      transform="translate(0,-271.60001)">
     <image
-       y="272.01578"
-       x="1.3864889"
+       y="276.91055"
+       x="6.8070111"
        id="image29"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAJdCAIAAACJSSsTAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOy9aYxd53nn+Tzvcpa71cbiLq6iFkrWZlmxvMZxbMdJnHg66YkbnQA9wAQYZIAAM0C+BYiRDxNM
@@ -2864,7 +2864,19 @@ bAPKqKssw+pmU1rZqr9sii9zTFlYbAxLORYW24DNOuJu9nNa5uDarGPKwmJjWMqxsLCwsNgi2OYF
 FhY7CO+ZzH2TYDPuLLYGlnIsLLYBm6WWm00Jm83Qs7B4f/j/x7BY01p5l6sAAAAASUVORK5CYII=
 "
        preserveAspectRatio="none"
-       height="24.833033"
-       width="22.575483" />
+       height="20.221722"
+       width="18.383383" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.37445545px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:Broadway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#7e3fc1;fill-opacity:1;stroke:none;stroke-width:0.35936138"
+       x="-0.46359399"
+       y="316.14618"
+       id="text91"
+       transform="scale(1.1222446,0.89107134)"><tspan
+         sodipodi:role="line"
+         id="tspan89"
+         x="-0.46359399"
+         y="316.14618"
+         style="fill:#7e3fc1;fill-opacity:1;stroke-width:0.35936138">U</tspan></text>
   </g>
 </svg>

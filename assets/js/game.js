@@ -5,7 +5,7 @@ let game = {
     "electron",
     "firebase",
     "html",
-    "javascript",
+    "jquery"
   ],
   cards: null,
 
